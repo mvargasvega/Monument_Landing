@@ -1,0 +1,27 @@
+/* ----------------------------------------
+Header
+------------------------------------------- */
+header {
+  background-image: url(../images/home_header_bg.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 350px;
+  margin-bottom: 48px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+header h1 {
+	color: white;
+  letter-spacing: 40px;
+}
+
+
+.flex{
+}
+
+.column3{
+  width: 30%
+
+}
