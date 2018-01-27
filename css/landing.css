@@ -21,3 +21,7 @@ header h1 {
 .blue{
   background-color: #CFF2F6;
 }
+
+.coolpics{
+  column-count: 3;
+}
