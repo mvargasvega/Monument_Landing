@@ -17,6 +17,10 @@ header h1 {
   letter-spacing: 40px;
 }
 
+header p {
+  color: white;
+  letter-spacing: 0;
+}
 
 .blue{
   background-color: #CFF2F6;
